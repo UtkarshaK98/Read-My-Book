@@ -17,4 +17,3 @@ OpenCV
 Tesseract OCR
 Yagmail
 GTTs
-
